@@ -23,3 +23,5 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 ### Evaluation for JOUR389W
 
 PUT YOUR EVALUATION HERE
+
+Overall, this worked out extremly well and is a great way to condesne a vast amount of information down to the most impiortant apsects of the article. The article I choose was from the Met Gala last night and had over 30 names. All the names and titles were correct which I was super surprised about. I can definitley see The New York Times using a system like this to go back into their archives to find specific stories by using key words or categories like this. One thing that I did find interesting was that it mentioned the Met which is where the Met Gala took place but then it also mentioned specific areas of the Met which I guess is what it was supposed to do. 
